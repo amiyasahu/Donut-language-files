@@ -3,6 +3,7 @@ This repo contains the language files for [Donut theme](https://github.com/amiya
 
 # Included Language files 
 
-1. German Language files (*-de.php) (By [Dominik](https://github.com/Soeldner) and Contributers)
-2. Spanish Language files (*-es.php) (By [Alvarofg](https://github.com/Alvarofg) and Contributers)
-2. Portuguese Language files (*-pt.php) (By [Sfw Synchro](https://github.com/sfwsynchro) and Contributers)
+| Language Files | File name mask | Contributors |         
+| German         | `*-de.php`     | [Dominik](https://github.com/Soeldner) and Contributers
+| Spanish        |`*-es.php`      | [Alvarofg](https://github.com/Alvarofg) and Contributers
+| Portuguese     |`*-pt.php`      | [Sfw Synchro](https://github.com/sfwsynchro) and Contributers
