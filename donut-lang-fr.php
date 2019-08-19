@@ -1,6 +1,6 @@
 <?php
     return array(
-        'donut_theme_settings'        => 'Réglages du thème Donut',
+        'donut_theme_settings'        => 'Thème Donut',
         'general'                     => 'Général',
         'options_reset'               => 'Réglages du thème Donut remis à leurs valeurs par défaut',
         'options_saved'               => 'Réglages du thème Donut enregistrés',
@@ -21,7 +21,7 @@
         'responsive_q2a_theme'        => 'Thème génial q2a',
         'ask_us_anything'             => 'Demandez-nous n\'importe quoi',
         'page_not_found_default_text' => 'Oups... Page non trouvée',
-        'admin_notes'                 => 'Consultez la section `Paramètres administrateur / Thème Donut` pour personnaliser le thème Donut. Ici, vous pouvez uniquement rétablir les paramètres par défaut du thème Donut.',
+        'admin_notes'                 => 'Consultez la section `Admin / Thème Donut` pour personnaliser le thème. Dans cette section, vous ne pouvez que rétablir les paramètres par défaut du thème :',
         'ask_placeholder'             => 'Saisissez votre question',
         'ask_button'                  => 'Demandez !',
         'no_tags_message'             => 'Il n\'y a pas de tags sur votre site web. Les tags apparaîtront ici dès qu\'ils seront disponibles.',
