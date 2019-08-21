@@ -1,0 +1,43 @@
+<?php
+    return array(
+        'donut_activate_prod_mode'           => 'Activer le mode de production (utiliser css minifié, js et Bootstrap CDN)',
+        'donut_enable_top_bar'               => 'Activer la barre supérieure (au-dessus de la navigation principale)',
+        'donut_top_bar_left_text'            => 'Texte à gauche de la barre supérieure',
+        'donut_top_bar_right_text'           => 'Texte à droite de la barre supérieure',
+        'donut_show_top_social_icons'        => 'Afficher les icônes sociales en haut',
+        'donut_enable_sticky_header'         => 'Activer l\'en-tête "sticky" sur le défilement',
+        'donut_enable_back_to_top_btn'       => 'Activer le bouton Retour en haut',
+        'donut_show_home_page_banner'        => 'Afficher la bannière de la page d\'accueil',
+        'donut_banner_head_text'             => 'Texte de l\'en-tête de la bannière',
+        'donut_banner_div1_text'             => 'Texte de la première boîte',
+        'donut_banner_div1_icon'             => 'Icone de la première boîte',
+        'donut_banner_div2_text'             => 'Texte de la seconde boîte',
+        'donut_banner_div2_icon'             => 'Icone de la seconde boîte',
+        'donut_banner_div3_text'             => 'Texte de la troisième boîte',
+        'donut_banner_div3_icon'             => 'Icone de la troisième boîte',
+        'donut_banner_show_ask_box'          => 'Afficher la boîte de question dans la bannière',
+        'donut_banner_closable'              => 'Autoriser les utilisateurs à fermer la bannière',
+        'donut_show_collapsible_btns'        => 'Réduire les boutons supplémentaires en un bouton d\'action sur la page de question',
+        'donut_show_breadcrumbs'             => 'Afficher le fil d\'ariane sous le titre (pour une meilleure apparence du fil d\'ariane, il n’est pas nécessaire de l’ajouter à partir de Admin/Layout)',
+        'donut_show_site_stats_above_footer' => 'Afficher le statut du site au-dessus du pied de page',
+        'donut_show_social_links_at_footer'  => 'Afficher les liens sociaux en bas de page',
+        'donut_show_copyright_at_footer'     => 'Afficher les copyrights au pied de page',
+        'donut_copyright_text'               => 'Texte de copyright',
+        'donut_general_settings_notice'      => '<h3 class="text-center">Réglages généraux Donut</h3>',
+        'donut_homepage_settings_notice'     => '<h3 class="text-center">Réglages Donut - Page d\'accueil</h3>',
+        'donut_footer_settings_notice'       => '<h3 class="text-center">Réglages Donut - Pied de page</h3>',
+        'donut_social_settings_notice'       => '<h3 class="text-center">Réglages Donut - Réseaux sociaux</h3>',
+        'donut_facebook_url'                 => 'URL Facebook',
+        'donut_twitter_url'                  => 'URL Twitter',
+        'donut_pinterest_url'                => 'URL Pinterest',
+        'donut_google-plus_url'              => 'URL Google+',
+        'donut_vk_url'                       => 'URL VKontact',
+        'donut_email_address'                => 'Adresse e-mail',
+        'donut_show_custom_404_page'         => 'Afficher une page 404 personnalisée',
+        'donut_custom_404_text'              => 'Texte de la page 404 personnalisée',
+        'donut_use_local_font'               => 'Utiliser une police locale (les polices Google seront chargées si cette option est décochée)',
+    );
+
+    /*
+        Omit PHP closing tag to help avoid accidental output
+    */
